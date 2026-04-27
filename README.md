@@ -1,12 +1,16 @@
-**📌 Freelance QA Testing Business Project (IT Project Management Case Study)**
+![Project Thumbnail](QAThumbnail.png)
+
+# 📌 Freelance QA Testing Business Project (IT Project Management Case Study)**
 
 **Powerpoint presentation for this project in repo files**
+
+## 📌 Overview
 
 This project represents a simulated freelance QA testing business that I designed as part of my IT Project Management coursework. The goal was to build a realistic end-to-end QA service model from a business and technical perspective.
 
 Rather than focusing only on testing tools, I approached this project as if I were launching a real QA service startup, including planning, budgeting, stakeholder management, risk analysis, and quality assurance strategy.
 
-**🎯 Project Objective**
+## 🎯 Project Objective
 
 The purpose of this project is to demonstrate how a QA testing service could operate in a real-world environment by:
 
@@ -15,7 +19,7 @@ Identifying and preventing common website/app issues (bugs, broken links, mobile
 Delivering clear, actionable bug reports to improve user experience and product quality
 Applying structured project management principles across the full business lifecycle
 
-**🧪 QA Approach**
+## 🧪 QA Approach
 
 This project simulates real QA workflows using a structured testing approach:
 
@@ -25,7 +29,7 @@ Mobile responsiveness testing
 Cross-browser and cross-device considerations
 Bug reporting with clear documentation standards
 
-**🧩 Project Management Framework**
+## 🧩 Project Management Framework
 
 The project was developed using standard SDLC and project management phases:
 
@@ -35,7 +39,7 @@ Execution: Website setup, QA tool setup (Playwright), test design
 Monitoring & Control: Feedback analysis and iterative improvement
 Closing: Final business readiness and launch simulation
 
-**👥 Stakeholders**
+## 👥 Stakeholders
 
 Key stakeholders included:
 
@@ -44,7 +48,7 @@ Small business clients: external stakeholders receiving QA services
 End users: indirectly impacted through improved UX
 Marketing & sales team: responsible for client acquisition and outreach
 
-**⚠️ Risk & Quality Management**
+## ⚠️ Risk & Quality Management
 
 This project includes a structured risk management plan and QA validation model to ensure:
 
@@ -53,7 +57,7 @@ Clear mitigation strategies for delivery delays
 Consistent communication and stakeholder updates
 Defined QA success criteria for deliverables
 
-**📈 Outcome**
+## 📈 Outcome
 
 This project helped me develop a stronger understanding of:
 
@@ -68,6 +72,6 @@ SDLC / Agile concepts
 Microsoft PowerPoint (project documentation)
 Risk management & stakeholder analysis
 
-**🚀 Why this project matters**
+## 🚀 Why this project matters
 
 This is not just a theoretical assignment, it demonstrates how I approach QA from a real-world perspective: balancing quality, business needs, timelines, and user experience.
